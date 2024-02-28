@@ -60,9 +60,9 @@ assets:
   # - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   fonts:
-    - family: Koho
+    - family: KoHo
       fonts:
-        - asset: assets/fonts/KoHo-Regular.ttf
+        - asset: fonts/KoHo-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro

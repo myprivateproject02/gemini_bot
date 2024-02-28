@@ -18,7 +18,7 @@ class ChatRepo {
               "temperature": 0.2,
               "topK": 1,
               "topP": 1,
-              "maxOutputTokens": 500,
+              "maxOutputTokens": 1500,
               "stopSequences": []
             },
             "safetySettings": [
@@ -45,14 +45,14 @@ class ChatRepo {
       print("jsonRespomse is = $jsonRespomse");
 
       if (response.statusCode! >= 200 && response.statusCode! < 300) {
-        return response
-            .data['candidates'].first['content']['parts'].first['text'];
+        return response.data['candidates'].first['content']['parts'].first['text'];
+      }else{
+        print("jsonRespomse statusMessage is = ${response.statusCode}");
+        return '${response.statusMessage}';
       }
-
-      return '';
     } catch (e) {
       print("error $e");
-      return '';
+      return '$e';
     }
   }
 }

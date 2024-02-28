@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       //   useMaterial3: true,
       // ),
       theme: ThemeData(
-        fontFamily: 'Koho',
+        fontFamily: 'KoHo',
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
