@@ -6,9 +6,10 @@ sealed class ChatEvent {}
 
 class ChatGenerateNewTextMessageEvent extends ChatEvent {
   final String inputMessage;
-  ChatGenerateNewTextMessageEvent({
-    required this.inputMessage,
-  });
+  final ItemScrollController scrollController;
+
+  ChatGenerateNewTextMessageEvent(
+      {required this.inputMessage, required this.scrollController});
 }
 
 class ClearHistoryEvent extends ChatEvent {}

@@ -18,7 +18,7 @@ class ChatRepo {
               "temperature": 0.2,
               "topK": 1,
               "topP": 1,
-              "maxOutputTokens": 2048,
+              "maxOutputTokens": 500,
               "stopSequences": []
             },
             "safetySettings": [
