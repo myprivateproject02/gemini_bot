@@ -6,12 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 👉  Some ScreenShorts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![Uploading Simulator Screenshot - iPhone 15 - 2024-02-28 at 23.15.49.png…]()
+<p align="center">
+  <img src="https://github.com/myprivateproject02/COVID-19_Tracker/blob/master/sample_img/Screenshot_1601179420.png" width="250">
+  <img src="https://github.com/myprivateproject02/COVID-19_Tracker/blob/master/sample_img/Screenshot_1601178533.png" width="250">
+  <img src="https://github.com/myprivateproject02/COVID-19_Tracker/blob/master/sample_img/Screenshot_1601178545.png" width="250">
+  <img src="https://github.com/myprivateproject02/COVID-19_Tracker/blob/master/sample_img/Screenshot_1601178550.png" width="250">
+</p>
+<br>
