@@ -7,7 +7,7 @@
 <!-- Strong -->
 >  This Is A Simple _Gemini Bot_ Flutter Application.
 
-#### Implementing Bloc with Dio.
+#### Implementing Bloc State Managment with Dio.
 
 <!------------
 -->
