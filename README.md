@@ -1,10 +1,16 @@
+<!-- heading -->
 # gemini_bot
 
-A new Flutter project.
+<img src="sample_img/ai.png" width="100" >
 
-## Getting Started
+<!-- Blockquote -->
+<!-- Strong -->
+>  This Is A Simple _Gemini Bot_ Flutter Application.
 
-This project is a starting point for a Flutter application.
+#### Implementing Bloc with Dio.
+
+<!------------
+-->
 
 
 ## 👉  Some ScreenShorts
@@ -12,7 +18,7 @@ This project is a starting point for a Flutter application.
 <p align="center">
   <img src="sample_img/Screenshot_2024-02-29-22-43-47-27_5f3622a6259e4e0ac2a44bfbd961254c.jpg" width="250">
   <img src="sample_img/Screenshot_2024-02-29-22-44-29-53_5f3622a6259e4e0ac2a44bfbd961254c.jpg" width="250">
-  <img src="https://github.com/myprivateproject02/COVID-19_Tracker/blob/master/sample_img/Screenshot_1601178545.png" width="250">
-  <img src="https://github.com/myprivateproject02/COVID-19_Tracker/blob/master/sample_img/Screenshot_1601178550.png" width="250">
+  <img src="sample_img/Simulator Screenshot - iPhone 15 - 2024-02-28 at 23.15.49.png" width="250">
+  <img src="sample_img/Simulator Screenshot - iPhone 15 - 2024-02-28 at 23.32.05.png" width="250">
 </p>
 <br>
